@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Assign_02</string>
+    <string name="welcome_msg">Welcome</string>
+    <string name="Upload">Upload Cover Image</string>
+    <string name="userName">Username</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="Confirm_Password">Confirm Password</string>
+    <string name="day">Day</string>
+    <string name="month">Month</string>
+    <string name="year">Year</string>
+    <string name="button_starting">Get Started</string>
+    <string name="link">Terms and Conditions</string>
+</resources>
